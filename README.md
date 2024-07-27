@@ -33,7 +33,7 @@ Acerca del Dataset
 
 Este archivo contiene varios parámetros/características en base a los cuales un asteroide en particular que ya está clasificado como objeto terrestre más cercano puede o no ser peligroso.
 
-[Dataset: NASA | Nearest Earth Objects (1910-2024)](https://linktodocumentation](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
+[Dataset: NASA | Nearest Earth Objects (1910-2024)](https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024)
 
 ## Desarrollo
 ### Menú gráfico de todas las funciones
