@@ -25,7 +25,7 @@ Un proyecto es un esfuerzo temporal que busca crear un producto, servicio o resu
 
 Instalar todas las librerias necesarias, con el archivo librerias.txt que se encuentra en el repositorio mediante el siguiente código:
 
-        pip install librerias.py
+        pip install librerias.txt
 
 ### Dataset
 
