@@ -15,6 +15,27 @@ La gestión de proyectos es una disciplina esencial en el mundo de los negocios 
 
 Un proyecto es un esfuerzo temporal que busca crear un producto, servicio o resultado único. La gestión de proyectos implica la aplicación de conocimientos, habilidades, herramientas y técnicas para cumplir con los requisitos del proyecto y garantizar su éxito. Los gestores de proyectos deben equilibrar tres variables clave: el alcance, el tiempo y el costo, y manejar las expectativas y los riesgos asociados.
 
+## Objetivos específicos
+
+- Inspeccionar la dimensión del dataframe y la impresión de tipos de datos.
+- Calcular la cantidad de datos por clase (si aplica).
+- Generar un resumen general de los datos del dataset.
+- Evaluar la correlación entre diferentes características de los objetos cercanos a la Tierra.
+- Identificar y analizar posibles sesgos en los datos.
+- Visualización de Datos
+- Desarrollar una matriz de dispersión para observar la relación entre características clave.
+- Crear diagramas de caja para identificar posibles valores atípicos y entender la distribución de las variables.
+- Generar una matriz de densidad para examinar la densidad de los objetos en el espacio de características.
+- Crear una matriz de correlación para visualizar las relaciones entre diferentes características.
+- Desarrollo y Evaluación de Modelos Predictivos
+- Aplicar técnicas de validación cruzada, como K-Fold Cross-Validation, para evaluar el rendimiento de los modelos predictivos.
+- Utilizar la validación Hold-Out para comparar diferentes modelos de regresión o clasificación.
+- Calcular métricas de rendimiento, como el Error Medio Absoluto (MAE), el Error Cuadrático Medio (MSE), y el Coeficiente de Determinación (R²), para evaluar la precisión del modelo.
+- Analizar las matrices de confusión y el puntaje de acierto Cohen-Kappa (si se trata de un problema de clasificación) para entender la calidad de las predicciones.
+- Identificación de Objetos Críticos
+- Evaluar las características de los objetos para determinar cuáles tienen el mayor potencial de impacto.
+- Aplicar técnicas de análisis estadístico y modelos predictivos para priorizar los objetos en función de su tamaño, velocidad y proximidad a la Tierra.
+
 ## Herramientas
 - Visual Studio Code
 - Python versión 3.12.4
