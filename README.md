@@ -7,13 +7,13 @@ Materia Gestión de Proyectos
 - Patsy Rios [@Sole1999](https://github.com/Sole1999)
 - Daniel Bonilla [@DannyB2023](https://github.com/DannyB2023)
 
-## Descripción
-Realizar un análisis del dataset mediante la utilización de las librerías de Python.
-
 ## Introducción
 La gestión de proyectos es una disciplina esencial en el mundo de los negocios y la tecnología, que se centra en la planificación, ejecución y supervisión de proyectos para alcanzar objetivos específicos dentro de un plazo definido y con un presupuesto establecido. Su objetivo principal es asegurar que los proyectos se completen de manera eficiente y efectiva, satisfaciendo las expectativas de los interesados.
 
 Un proyecto es un esfuerzo temporal que busca crear un producto, servicio o resultado único. La gestión de proyectos implica la aplicación de conocimientos, habilidades, herramientas y técnicas para cumplir con los requisitos del proyecto y garantizar su éxito. Los gestores de proyectos deben equilibrar tres variables clave: el alcance, el tiempo y el costo, y manejar las expectativas y los riesgos asociados.
+
+## Descripción
+Realizar un análisis del dataset mediante la utilización de las librerías de Python.
 
 ## Objetivos específicos
 
@@ -167,6 +167,10 @@ _El Error Cuadrático Medio (MSE) es una métrica utilizada en problemas de regr
 _El Coeficiente de Determinación (R²), también conocido como R cuadrado, es una métrica utilizada para evaluar la calidad de ajuste de un modelo de regresión. Mide la proporción de la variabilidad en la variable dependiente que es explicada por el modelo en comparación con un modelo de referencia (como el promedio de la variable dependiente)._
 
 ![image](https://github.com/user-attachments/assets/26e1e1ee-42a2-4e3e-85d4-32bdaa25b9d0)
+
+## Conclusiones
+
+El proyecto sobre el dataset NASA | Nearest Earth Objects (1910-2024) ha permitido una comprensión profunda y detallada de los objetos que se han acercado a la Tierra a lo largo de más de un siglo. Se ha logrado proporcionar una comprensión integral de los objetos cercanos a la Tierra, desde su análisis detallado hasta la evaluación de su potencial riesgo. La combinación de técnicas de análisis de datos y modelos predictivos ha permitido un enfoque riguroso y detallado, asegurando que los hallazgos sean precisos y relevantes. La documentación y comunicación efectiva de los resultados aseguran que la información obtenida pueda ser utilizada de manera práctica para la protección y la investigación futura en el campo de la astronomía y la protección planetaria.
 
 # FIN! 👋
 
